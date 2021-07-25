@@ -1,1 +1,1 @@
-<p align="center">bareria js</p>
+<p align="center">bateria js</p>
